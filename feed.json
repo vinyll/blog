@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vinyll Blog",
+    "description": "",
+    "home_page_url": "",
+    "feed_url": "/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vincent Agnano &lt;vinyll&gt;"
+    },
+    "items": [
+        {
+            "id": "/test.html",
+            "url": "/test.html",
+            "title": "Test",
+            "summary": "This is a test",
+            "content_html": "This is a test",
+            "author": {
+                "name": "Vincent Agnano &lt;vinyll&gt;"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-27T22:47:26+02:00",
+            "date_modified": "2020-04-27T22:47:26+02:00"
+        }
+    ]
+}

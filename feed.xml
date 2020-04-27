@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Vinyll Blog</title>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2020-04-27T22:47:43+02:00</updated>
+    <author>
+        <name>Vincent Agnano &lt;vinyll&gt;</name>
+    </author>
+    <id></id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Vincent Agnano &lt;vinyll&gt;</name>
+        </author>
+        <link href="/test.html"/>
+        <id>/test.html</id>
+
+        <updated>2020-04-27T22:47:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This is a test
+            ]]>
+        </content>
+    </entry>
+</feed>
